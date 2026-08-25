@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Psychology Postdoctoral Researcher"
   location         : "UK, Germany"
-  employer         : "University of Bremen<br/>University of Exeter"
+  employer         : "University of Bremen<br/><span style='margin-left: 24px;'>University of Exeter</span>"
   uri              : # URL
   email            : "acarter@uni-bremen.de" 
 
