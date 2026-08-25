@@ -1,7 +1,7 @@
 ---
 title: "Reasoning to Justify Eating Animals Varies With Age"
 collection: articles
-category: manuscripts
+category: articles
 permalink: /publication/2025-reasoning-eating-animals
 excerpt: 'Children, compared to adolescents and adults, were more ambivalent about eating animals and relied less on arguments about meat being natural.'
 date: 2025-04-25
