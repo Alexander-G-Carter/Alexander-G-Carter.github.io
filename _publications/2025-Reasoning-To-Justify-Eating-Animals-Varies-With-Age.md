@@ -7,5 +7,5 @@ permalink: /publication/2025-reasoning-eating-animals
 date: 2025-04-25
 venue: 'Child Development'
 paperurl: 'https://doi.org/10.1111/cdev.14217'
-citation: 'McGuire. L., Bagus, T., Carter, A. G., Fry. E., Faber, N.S. Reasoning to Justify Eating Animals Varies With Age, Child Development, 96(3), 953-965'
+citation: 'McGuire. L., Bagus, T., Carter, A. G., Fry. E., Faber, N.S. Reasoning to justify eating animals varies with age, Child Development, 96(3), 953-965'
 ---
