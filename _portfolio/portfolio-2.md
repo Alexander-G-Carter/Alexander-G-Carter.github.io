@@ -1,6 +1,6 @@
 ---
 title: "Moral Psychology"
-excerpt: "Questions of morality fundamentally shape how we interact with others and regulate society. .<br/><br/> In our working group, we combine methodologies from psychology and philosophy to explore the following questions. How do personal attributes influence support for utilitarian versus deontological ethics? Why do people assign different moral worth to different individuals and groups? How can empirical psychological research can inform contemporary bioethics?   <br/><img src='/images/trolley.png' width='600' style='margin-top: 25px;'>"
+excerpt: "Questions of morality fundamentally shape how we interact with others and regulate society. .<br/><br/> In our working group, we combine methodologies from psychology and philosophy to explore the following questions. How do personal attributes influence support for utilitarian versus deontological ethics? Why do people assign different moral worth to different individuals and groups? How can empirical psychological research inform contemporary bioethics?   <br/><img src='/images/trolley.png' width='600' style='margin-top: 25px;'>"
 collection: portfolio
 ---
 
