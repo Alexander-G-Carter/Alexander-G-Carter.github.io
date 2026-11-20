@@ -26,5 +26,11 @@ In the speciesism seminar I focus on the following:
 - Moral status and the concept of the moral circle
 - The developmental origins of speciesism
 
-Relationships & Attractiveness
+Relationships & Attraction
 ======
+In the Relationships and Attraction seminar I focus on the following:
+
+- Determinants of Attraction
+- Relationship Theories
+- Love and Attraction Across Cultures
+- Stigma and Identity Concealment
