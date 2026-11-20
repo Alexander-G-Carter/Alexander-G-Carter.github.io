@@ -7,7 +7,7 @@ venue: "University of Bremen"
 date: 2026-10-01
 location: "Bremen, Germany"
 ---
-For University of Bremen Students - I lead the social psychology seminar sessions on Morality, Speciesism, and Relationships & Attractiveness.
+For University of Bremen Students - I lead the social psychology seminar sessions on Morality, Speciesism, and Relationships & Attraction.
 
 Morality
 ======
